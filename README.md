@@ -1,3 +1,20 @@
+# Customization
+
+This is my customized Oh-My-Zsh for remote host.
+-  Use dpoggi as default theme
+
+
+Use the following installation link instead. 
+
+```shell
+sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/hackjutsu/oh-my-zsh/master/tools/install.sh)"
+```
+
+
+
+----- 
+
+
 <p align="center">
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
 </p>
