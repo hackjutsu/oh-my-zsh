@@ -93,9 +93,10 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# aliases for Ruby on Rails
-alias b=bundle
-alias be='bundle exec'
-
 # source from bash config
 source ~/.bashrc
+
+# frequently used aliases
+alias refresh="source ~/.zshrc"
+alias ll="ls -la"
+alias gg="grep -nr --color -a3 -b3"
