@@ -96,3 +96,6 @@ source $ZSH/oh-my-zsh.sh
 # aliases for Ruby on Rails
 alias b=bundle
 alias be='bundle exec'
+
+# source from bash config
+source ~/.bashrc
